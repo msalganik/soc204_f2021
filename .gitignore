@@ -1,0 +1,12 @@
+
+.DS_Store
+*.bash
+slides/figures_book/*
+*.aux
+*.log
+*.nav
+*.out
+*.gz
+*.toc
+*.snm
+slides/google_circles_deck.pdf
