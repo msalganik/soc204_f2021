@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--#include file="header.html"-->
+
+<body>
+
+    <!--#include file="navbar.html"-->
+
+    <div class="container">
+
+        <!--#set var="01" value="Introduction (09/01/21)" -->
+
+        <!--#set var="02" value="The connected age and the small world problem (09/08/21)" -->
+
+        <!--#set var="03" value="More on the small world problem and some history (09/13/21)" -->
+        <!--#set var="04" value="Understanding the small world phenomena (09/15/21)" -->
+
+        <!--#set var="05" value="Degree distributions and power laws (09/20/21)" -->
+        <!--#set var="06" value="Foci (09/22/21)" -->
+
+        <!--#set var="07" value="Social search (09/27/21)" -->
+        <!--#set var="08" value="Spread of disease in networks (09/29/21)" -->
+
+        <!--#set var="09" value="The madness of crowds (10/04/21)" -->
+        <!--#set var="10" value="Thresholds, cascades, and predictability (10/06/21)" -->
+
+        <!--#set var="11" value="Cascades and fads in cultural markets (10/11/21)" -->
+        <!--#set var="12" value="Midterm exam" -->
+
+        <!--#set var="13" value="Stength of weak ties (10/25/21)" -->
+        <!--#set var="14" value="Complex contagion (10/27/21)" -->
+
+        <!--#set var="15" value="Experimental studies of contagion (11/01/21)" -->
+        <!--#set var="16" value="Going viral (11/03/21)" -->
+
+        <!--#set var="17" value="Social media and individuals (11/08/21)" -->
+        <!--#set var="18" value="Social media and society (11/10/21)" -->
+
+        <!--#set var="19" value="Social ads in social media (11/15/21)" -->
+        <!--#set var="20" value="Fixing social media (11/17/21)" -->
+
+        <!--#set var="21" value="Respondent-driven sampling (11/22/21)" -->
+
+        <!--#set var="22" value="Network scale-up method to study groups most at-risk for HIV (11/29/21)" -->
+        <!--#set var="23" value="Who knows what about who? (12/01/21)" -->
+
+        <!--#set var="24" value="Choose your own adventure (12/06/21)" -->
+
+
+        <table class="table">
+            <th>Week</th>
+            <th>Monday</th>
+            <th>Wednesday</th>
+            <tr>
+                <td>1</td>
+                <td>
+                    No class
+                </td>
+                <td>
+                    <a href="#01">
+                        <!--#echo var="01" -->
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>
+                    No class (Labor Day)
+                </td>
+                <td>
+                    <a href="#02">
+                        <!--#echo var="02" -->
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>
+                    <a href="#03">
+                        <!--#echo var="03" -->
+                    </a>
+                </td>
+                <td>
+                    <a href="#04">
+                        <!--#echo var="04" -->
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>
+                    <a href="#05">
+                        <!--#echo var="05" -->
+                    </a>
+                </td>
+                <td>
+                    <a href="#06">
+                        <!--#echo var="06" -->
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>
+                    <a href="#07">
+                        <!--#echo var="07" -->
+                    </a>
+                </td>
+                <td>
+                    <a href="#08">
+                        <!--#echo var="08" -->
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>
+                    <a href="#09">
+                        <!--#echo var="09" -->
+                    </a>
+                </td>
+                <td>
+                    <a href="#10">
+                        <!--#echo var="10" -->
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>
+                    <a href="#11">
+                        <!--#echo var="11" -->
+                    </a>
+                </td>
+                <td>
+                    <a href="#12">
+                        <!--#echo var="12" -->
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Fall break</td>
+                <td>Fall break</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>
+                    <a href="#13">
+                        <!--#echo var="13" -->
+                    </a>
+                </td>
+                <td>
+                    <a href="#14">
+                        <!--#echo var="14" -->
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>
+                    <a href="#15">
+                        <!--#echo var="15" -->
+                    </a>
+                </td>
+                <td>
+                    <a href="#16">
+                        <!--#echo var="16" -->
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>
+                    <a href="#17">
+                        <!--#echo var="17" -->
+                    </a>
+                </td>
+                <td>
+                    <a href="#18">
+                        <!--#echo var="18" -->
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td>
+                    <a href="#19">
+                        <!--#echo var="19" -->
+                    </a>
+                </td>
+                <td>
+                    <a href="#20">
+                        <!--#echo var="20" -->
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>12</td>
+                <td>
+                    <a href="#21">
+                        <!--#echo var="21" -->
+                    </a>
+                </td>
+                <td>No class (Thanksgiving)</td>
+            </tr>
+            <tr>
+                <td>13</td>
+                <td>
+                    <a href="#22">
+                        <!--#echo var="22" -->
+                    </a>
+                </td>
+                <td>
+                    <a href="#23">
+                        <!--#echo var="23" -->
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>14</td>
+                <td>
+                    <a href="#24">
+                        <!--#echo var="24" -->
+                    </a>
+                </td>
+                <td>No class (end of semester)</td>
+            </tr>
+        </table>
+
+
+
+        <h2>Readings</h2>
+
+        <h3 id="01"><!--#echo var="01" --></h3>
+        <ul>
+            <li>Read this syllabus</li>
+        </ul>
+
+        <hr>
+
+        <h3 id="02"><!--#echo var="02" --><small></h3>
+        <ul>
+            <li>Watts, Preface and Chapter 1. (Available from Canvas)
+                <a href="#access" class="ca"></a>
+            </li>
+            <li>Milgram, S. (1967). The small world problem. <i>Psychology Today</i>, 1:62-67. (Available from Canvas)
+                <a href="#access" class="ca"></a>
+            </li>
+            <li>Travers, J. and Milgram, S. (1969). <a href="http://www.jstor.org/stable/2786545">An experimental study of the small world problem.</a> <i>Sociometry</i>, 32(4):425-443.
+                <a href="#access" class="ca"></a>
+            </li>
+            <li>Kleinfeld, J.S. (2002). <a href="https://doi.org/10.1007/BF02717530">The small world problem.</a> <i>Society</i>, 39(2):61-66.
+                <a href="#access" class="ca"></a>
+            </li>
+        </ul>
+
+        <hr>
+
+        <h3 id="03"><!--#echo var="03" --></h3>
+        <ul>
+            <li>Granovetter, M. (2003). <a href="http://dx.doi.org/10.1126/science.1088508">Ignorance, knowledge, and outcomes in a small world.</a> <i>Science</i>, 301:773-774.
+                <a href="#access" class="ca"></a>
+            </li>
+            <li>Dodds, P.S., Muhamad, R., and Watts, D.J. (2003). <a href="http://dx.doi.org/10.1126/science.1081058">An experimental study of search in a global social networks.</a> <i>Science</i>, 301:827-829.
+                <a href="#access" class="ca"></a>
+            </li>
+            <li>Watts, Chapter 2. (Available from Canvas)
+                <a href="#access" class="ca"></a>
+            </li>
+            <li><a href="http://ccl.northwestern.edu/netlogo/models/GiantComponent">Erdos-Reyni random graph animation</a> by <a href="http://ccl.northwestern.edu/uri/">Uri Wilensky</a>. (optional)
+                <a href="#access" class="oa"></a>
+            </li>
+        </ul>
+
+        <h3 id="04"><!--#echo var="04" --></h3>
+        <ul>
+            <li>Watts, Chapter 3.
+                <a href="#access" class="ca"></a>
+            </li>
+            <li>Watts, D.J. and Strogatz, S.H. (1998). <a href="http://dx.doi.org/10.1038/30918">Collective dynamics of 'small-world' networks</a>. <i>Nature</i> 393, 440-442.
+                <a href="#access" class="ca"></a>
+            </li>
+            <li>Victor, B. (2011). <a href="http://worrydream.com/ScientificCommunicationAsSequentialArt/">Scientific Communication As Sequential Art</a>.
+                <a href="#access" class="oa"></a>
+            </li>
+            <li>Watts, D.J. (1999). <a href="http://www.jstor.org/stable/2991086">Networks, dynamics, and the small world phenomenon</a>. <i>American Journal of Sociology</i>, 105(2):493-527.
+                <a href="#access" class="ca"></a>
+            </li>
+        </ul>
+
+        <hr>
+
+        <h3 id="05"><!--#echo var="05" --></h3>
+
+        <ul>
+            <li>Watts, Chapter 4, 101-114.
+                <a href="#access" class="ca"></a>
+            </li>
+            <li>Barabasi, A.L. and Bonabeau, E. (2003) Scale-free networks. <i>Scientific American</i>, 50-59. (Available from Canvas)
+                <a href="#access" class="ca"></a>
+            </li>
+            <li>Barabasi, A.L. and Albert, R. (1999) <a href="http://dx.doi.org/10.1126/science.286.5439.509">The emergence of scaling in random networks.</a> <i>Science</i>, 286:509-512.
+                <a href="#access" class="ca"></a>
+            </li>
+            <li>Liljeros, F. et al. (2001). <a href="http://dx.doi.org/10.1038/35082140">The web of human sexual contacts.</a> <i>Nature</i>, 411:907-908 with <a href="http://www.nature.com/nature/journal/v423/n6940/full/423605a.html">comment</a> and <a href="http://www.nature.com/nature/journal/v423/n6940/full/423606a.html">rejoinder</a>.
+                <a href="#access" class="ca"></a>
+            </li>
+        </ul>
+
+        <h3 id="06"><!--#echo var="06" --></h3>
+
+        <ul>
+            <li>Gladwell, M. (1999). <a href="https://www.newyorker.com/magazine/1999/01/11/six-degrees-of-lois-weisberg">Six degrees of Lois Weisberg.</a> <i>The New Yorker</i>. (Available on Canvas)
+                <a href="#access" class="ca"></a>
+            </li>
+            <li>Watts, Chapter 4, 114-129. (Available on Canvas)
+                <a href="#access" class="ca"></a>
+            </li>
+            <li>Feld, S.L. (1981) <a href="http://www.jstor.org/stable/2778746">The focused organization of social ties.</a> <i>American Journal of Sociology</i>, 86(5):1015-1035.
+                <a href="#access" class="ca"></a>
+            </li>
+        </ul>
+
+        <hr>
+
+        <h3 id="07"><!--#echo var="07" --></h3>
+
+        <ul>
+            <li>Watts, Chapter 5.
+                <a href="#access" class="ca"></a>
+            </li>
+            <li>Lee, N.H. (1969). <a href="http://www.amazon.com/The-Search-Abortionist-Nancy-Howell/dp/0226470016"><i>The Search for an Abortionist</i></a>: Preface, Chapter 1, and Chapter 5. (Available from Canvas).
+                <a href="#access" class="ca"></a>
+            </li>
+        </ul>
+
+        <h3 id="08"><!--#echo var="08" --></h3>
+
+        <ul>
+            <li>Watts, Chapter 6.
+                <a href="#access" class="ca"></a>
+            </li>
+            <li>Bearman, P.S., Moody, J.M., and Stovel, K. (2004). <a href="http://dx.doi.org/10.1086/386272">Chains of affection: The structure of adolescent romantic and sexual networks.</a> <i>American Journal of Sociology</i>, 110(1):44-91.
+                <a href="#access" class="ca"></a>
+            </li>
+        </ul>
+
+        <hr>
+
+        <h3 id="09"><!--#echo var="09" --></h3>
+
+        <ul>
+            <li>Watts, Chapter 7.
+                <a href="#access" class="ca"></a>
+            </li>
+            <li>Asch, S.E. (1955). Opinions and social pressure. <i>Scientific American</i>, 193(5):31-35. (Available on Canvas)
+                <a href="#access" class="ca"></a>
+            </li>
+            <li>Easley D. and Kleinberg, J. (2010). <a href="http://www.amazon.com/Networks-Crowds-Markets-Reasoning-Connected/dp/0521195330"><i>Networks, Crowds, and Markets</i></a>: <a href="http://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch16.pdf">Chapter 16 (Sec 16.1, 16.2, and 16.7)</a>.
+                <a href="#access" class="oa"></a>
+            </li>
+            <li>Tierney, J. (2007). <a href="http://www.nytimes.com/2007/10/09/science/09tier.html">Diet and fat: A severe case of mistaken consensus.</a> <i>New York Times</i>.
+                <a href="#access" class="oa"></a>
+            </li>
+        </ul>
+
+        <h3 id="10"><!--#echo var="10" --></h3>
+
+        <ul>
+            <li>Gladwell, M. (1996). The tipping point. <i>The New Yorker</i>. (Available on Canvas)
+                <a href="#access" class="ca"></a>
+            </li>
+            <li>Watts, Chapter 8.
+                <a href="#access" class="ca"></a>
+            </li>
+            <li>Watts, D.J. (2002). <a href="http://www.jstor.org/stable/3058573">A simple model of global cascades on random networks.</a> <i>Proceedings of the National Academy of Sciences</i> 99:5766-5771.
+                <a href="#access" class="ca"></a>
+            </li>
+        </ul>
+
+        <hr>
+
+        <h3 id="11"><!--#echo var="11" --></h3>
+
+        <ul>
+            <li>Hedstrom, P. (2006). <a href="http://dx.doi.org/10.1126/science.1124707">Experimental macro sociology: Predicting the next best seller.</a> <i>Science</i>, 311:786-787.
+                <a href="#access" class="ca"></a>
+            </li>
+            <li>Salganik, M.J., Dodds, P.S., and Watts, D.J. (2006). <a href="http://dx.doi.org/10.1126/science.1121066">Experimental study of inequality and unpredictability in an artificial cultural market.</a> <i>Science</i>, 311:854-856.
+                <a href="#access" class="ca"></a>
+            </li>
+            <li>Salganik, M.J., and Watts, D.J. (2008). <a href="http://www.princeton.edu/~mjs3/salganik_watts08.pdf">Leading the herd astray: Experimental study of self-fulfilling prophecies in an artificial cultural market.</a> <i>Social Psychology Quarterly</i>,
+                71:338-355.
+                <a href="#access" class="ca"></a>
+            </li>
+        </ul>
+
+        <h3 id="12"><!--#echo var="12" --></h3>
+        <ul>
+            <li>50 minute midterm exam.</l1>
+        </ul>
+
+        <hr>
+
+        <h3 id="fall_break">Fall break</h3>
+        <ul>
+            <li>Have a safe and restful break.</li>
+        </ul>
+
+        <hr>
+
+        <h3 id="13"><!--#echo var="13" --></h3>
+        <ul>
+            <li>Granovetter, M. (1973). <a href="http://www.jstor.org/stable/2776392">The strength of weak ties.</a> <i>American Journal of Sociology</i>, 78(6), 1360-1380.
+                <a href="#access" class="ca"></a></li>
+            <li>Smith, S. (2005). <a href="http://www.jstor.org/stable/10.1086/428814">"Don't put my name on it": Social capital activation and job-finding assistance among the black urban poor.</a> <i>American Journal of Sociology</i>, 111(1), 1-57.
+                <a href="#access" class="ca"></a></li>
+        </ul>
+
+        <h3 id="14"><!--#echo var="14" --></h3>
+        <ul>
+          <li>Gladwell, M. (2010). <a href="https://www.newyorker.com/magazine/2010/10/04/small-change-malcolm-gladwell">Small change: The revolution will not be tweeted.</a> <i>New Yorker</i>.<a href="#access" class="oa"></a>
+          <li>Centola, D. and Macy, M.W. (2007). <a href="http://dx.doi.org/10.1086/521848">Complex contagion and the weakness of long ties.</a> <i>American Journal of Sociology</i>, 113(3):702-734. <a href="#access" class="ca"></a></li>
+          <li>Centola, D. (2010). <a href="http://dx.doi.org/10.1126/science.1185231">The spread of behavior in an online social network experiment.</a> <i>Science</i>, 329(5996):1194-1197. <a href="#access" class="ca"></a></li>
+        </ul>
+
+        <hr>
+
+        <h3 id="15"><!--#echo var="15" --></h3>
+        <ul>
+          <li>Nickerson, D.W. (2008). <a href="http://dx.doi.org/10.1017/S0003055408080039">Is voting contagious? Evidence from two field experiments.</a> <i>American Political Science Review</i>, 102(1):49-57.
+              <a href="#access" class="ca"></a></li>
+          <li>Kramer, A.D.I. et al. (2014). <a href="http://dx.doi.org/10.1073/pnas.1320040111">Experimental evidence of massive-scale emotional contagion through social networks.</a> <i>Proceedings of the National Academy of Sciences</i>.
+              <a href="#access" class="oa"></a></li>
+        </ul>
+
+        <h3 id="16"><!--#echo var="16" --></h3>
+        <ul>
+          <li>Goel, S. et al. (2015). <a href="http://dx.doi.org/10.1287/mnsc.2015.2158">The structural virality of online diffusion.</a> <i>Management Science</i>.
+              <a href="#access" class="ca"></a></li>
+          <li>Facebook Data Science (2014) <a href="https://www.facebook.com/notes/facebook-data-science/can-cascades-be-predicted/10152056491448859">Can cascades be predicted?</a>
+              <a href="#access" class="oa"></a></li>
+          <li>Cheng et al. (2014) <a href="http://dx.doi.org/10.1145/2566486.2567997">Can cascades be predicted?</a> <i>WWW</i>.
+              <a href="#access" class="ca"></a></li>
+        </ul>
+
+        <hr>
+
+        <h3 id="17"><!--#echo var="17" --></h3>
+        <ul>
+          <li>Kross, E. et al. (2020). <a href="https://doi.org/10.1016/j.tics.2020.10.005">Social media and well-being: Pitfalls, progress, and next steps</a>, <i>Trends in Cognitive Science</i>. <a href="#access" class="oa"></a></li>
+          <li>Carey, B. (2019). <a href="https://www.nytimes.com/2019/01/30/health/facebook-psychology-health.html">This is your brain off Facebook</a> <i>New York Times</i>. <a href="#access" class="oa"></a></li>
+          <li>Allcott, H. et al. (2020). <a href="http://dx.doi.org/10.1257/aer.20190658">The welfare effects of social media.</a> <i>American Economic Review</i>. <a href="#access" class="oa"></a></li>
+          <li>Baym, N.K. et al. (2020). <a href="">Mindfully scrolling: Rethinking Facebook after time deactived.</a> <i>Social Media + Society</i>. <a href="#access" class="oa"></a></li>
+        </ul>
+
+        <h3 id="18"><!--#echo var="18" --></h3>
+        <ul>
+          <li>Crokett, M.J. (2017). <a href="https://doi.org/10.1038/s41562-017-0213-3">Moral outrage in the digital age.</a> <i>Nature Human Behavior</i>. <a href="#access" class="ca"></a></li>
+          <li>Brady, W.J. et al. (2021). <a href="https://psyarxiv.com/gf7t5">How social learning amplifies moral outrage expression in online social networks.</a> <i>Working paper</i>. <a href="#access" class="oa"></a></li>
+          <li>Aral, S. (2018). <a href="https://www.nytimes.com/2018/03/08/opinion/sunday/truth-lies-spread-online.html">How lies spread online.</a> <i>New York Times</i>. <a href="#access" class="oa"></a></li>
+          <li>Vosoughi, S. et al. (2018). <a href="http://dx.doi.org/10.1126/science.aap9559">The spread of true and false news online.</a> <i>Science</i>. <a href="#access" class="ca"></a></li>
+          <li>Lazer, D. (2015). <a href="https://dx.doi.org/10.1126/science.aab1422">The rise of the social algorithm.</a> <i>Science</i>. <a href="#access" class="ca"></a></li>
+          <li>Bakshy, E., Messing, S., and Adamic, L.A. (2015) <a href="https://dx.doi.org/10.1126/science.aaa1160">Exposure to ideologically diverse news and opinion on Facebook.</a> <i>Science</i>. <a href="#access" class="ca"></a></li>
+        </ul>
+
+        <hr>
+
+        <h3 id="19"><!--#echo var="19" --></h3>
+        <ul>
+          <li>Duhigg, C. (2012). <a href="https://www.nytimes.com/2012/02/19/magazine/shopping-habits.html">How companies learn your secrets.</a> <i>New York Times</i>. <a href="#access" class="oa"></a></li>
+          <li>Goel, S. (2010). <a href="http://messymatters.com/birdshop/">Birds of a feather shop together.</a> <i>Messy Matters blog</i>. <a href="#access" class="oa"></a></li>
+          <li>Goel, S. and Goldstein D.G. (2014). <a href="https://doi.org/10.1287/mksc.2013.0817">Predicting individual behavior with social networks.</a> <i>Marketing Science</i>. <a href="#access" class="ca"></a></li>
+          <li>Bakshy, E. et al. (2012). <a href="https://doi.org/10.1145/2229012.2229027">Social influence in social advertising: Evidence from field experiments.</a> <i>EC</i>. <a href="#access" class="ca"></a></li>
+        </ul>
+
+        <h3 id="20"><!--#echo var="20" --></h3>
+        <ul>
+          <li>Frank, R.H. (2021). <a href="https://www.nytimes.com/2021/02/11/business/social-media-facebook-regulation.html">The economic case for regulating social media.</a> <i>New York Times</i>. <a href="#access" class="oa"></a></li>
+          <li>Pennycook, G. and Rand, D. (2020). <a href="https://www.nytimes.com/2020/03/24/opinion/fake-news-social-media.html">The right way to fight fake news.</a> <i>New York Times</i>. <a href="#access" class="oa"></a></li>
+          <li>Bail, C.A. et al. (2018). <a href="https://doi.org/10.1073/pnas.1804840115">Exposure to opposing views on social media can increase political polarization.</a> <i>PNAS</i>. <a href="#access" class="ca"></a></li>
+          <li>Kaiser, B., Mayer, J. and Mattias, J.M. (2021). <a href="https://www.lawfareblog.com/warnings-work-combating-misinformation-without-deplatforming">Warnings that work: Combating misinformation without deplatforming.</a> <i>Lawfare</i>. <a href="#access" class="oa"></a></li>
+          <li>Kaiser, B. et al. (2021). <a href="https://www.usenix.org/system/files/sec21summer_kaiser.pdf">Adapting security warnings to counter online disinformation.</a> <i>30th USENIX Security Symposium (USENIX Security 21)</i>. <a href="#access" class="oa"></a></li>
+        </ul>
+        <hr>
+
+        <h3 id="21"><!--#echo var="21" --></h3>
+        <ul>
+            <li>TBA</li>
+        </ul>
+
+        <hr>
+
+        <h3 id="22"><!--#echo var="22" --></h3>
+        <ul>
+            <li>Feehan, D.M. and Salganik, M.J. (2016). <a href="https://doi.org/10.1177/0081175016665425">Generalizing the Network Scale-up Method: A New Estimator for the Size of Hidden Populations</a>. <i>Sociological Methodology</i> <a href="#access" class="ca"></a></li>
+            <li>Feehan, D.M. et al. (2016). <a href="https://doi.org/10.1093/aje/kwv287">Quality vs. Quantity: A survey experiment to improve the network scale-up method.</a>  <i>American Journal of Epidemiology</i> 183(8): 747-757. <a href="#access" class="oa"></a></li>
+        </ul>
+
+        <h3 id="23"><!--#echo var="23" --></h3>
+        <ul>
+          <li>Salganik, M.J. et al. (2011). <a href="https://doi.org/10.1016/j.socnet.2010.10.006">The game of contacts: Estimating the social visibility of groups.</a> <i>Social Networks</i> <a href="#access" class="ca"></a></li>
+          <li>Cowan, S. (2014). <a href="http://www.sociologicalscience.com/download/volume%201/november/SocSci_v1_466to492.pdf">Secrets and Misperceptions: The Creation of Self-Fulfilling Illusions</a> <i>Sociological Science</i>. <a href="#access" class="oa"></a></li>
+        </ul>
+
+        <hr>
+
+        <h3 id="24"><!--#echo var="24" --></h3>
+        <p>The topic for the final class will be selected by students.</p>
+
+        <!--#include file="footer.html"-->
+
+    </div>
+    <!-- /container -->
+
+
+</body>
+
+</html>

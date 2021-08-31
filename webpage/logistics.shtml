@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--#include file="header.html"-->
+
+<body>
+
+  <!--#include file="navbar.html"-->
+
+  <div class="container">
+
+    <h3 id="lecture_time">Lecture time and location</h3>
+
+    <p>Monday and Wednesday, 11 - 11:50am</p>
+    <p>101 Architecture (Betts Auditorium)</p>
+
+    <h3 id="precept_times">Precept times</h3>
+
+    <p>Coming soon.</p>
+
+     <h3 id="grades">Class elements and grades</h3>
+     <p>The class has four main graded elements, which are designed to promote learning and are used for assessment:</p>
+
+      <ul>
+         <li>Midterm exam: 25%</li>
+
+         <p>The midterm exam will take place on the week of October 11, 2021.</p>
+
+         <li>Final exam: 40%</li>
+
+         <p>The final exam will cover material from the entire semster.</p>
+
+         <li>Precept assignments: 25%</li>
+
+         <p>There will be weekly assignments that will help you reinforce and extend the ideas from the reading and lectures. The assignments will involve things like replicating the studies that we read about or writing newspaper-style editorial articles.</p>
+
+         <li>Quizzes: 10%</li>
+
+         <p>There will be weekly short quizzes that that will help you reinforce the ideas from the reading and lectures.</p>
+       </ul>
+
+     <p>When calculating your final course grade, we will drop your lowest quiz grade and your lowest assignment grade.</p>
+
+    <h3 id="oh">Office hours</h3>
+    <p>You are welcome to come to office hours without an appointment; just stop by.  If you cannot come during office hours because of a scheduling conflict, please use Canvas to inbox the instructor that you would like to meet to set up another time.</p>
+      <ul>
+        <li>Matthew Salganik, Times TBA</li>
+        <li>Emily Cantrell, Times TBA</li>
+        <li>Katie Donnelly-Moran, Times TBA</li>
+        <li>Max Fineman, Times TBA</li>
+      </ul>
+
+     <p>Sometimes students don't feel comfortable coming to office hours so let me provide some examples of what we can talk about in office hours.</p>
+     <ul>
+       <li>Specfic things you don't understand (e.g., I don't understand Fig 2 of Travers and Milgram (1969). Can you walk me through it?)
+       <li>General things you don't understand (e.g., I didn't understand any of empirical studies of the small world phenomena. Can you help me make sense of them?)</li>
+       <li>Things you learned about in class that you'd like to learn more about (e.g., I loved that paper on power law networks. What can I read to learn more about it?)</li>
+       <li>Things related to our class that you are encoutering in other classes or in your life</li>
+       <li>Anything else you'd like to talk about</li>
+     </ul>
+
+    <h3 id="struggle">What to do if you are struggling with the class</h3>
+
+    <p>If you are struggling in the course, you should come to office hours because we can help you figure out how to get back on track. Another complemtary form of support is the <a href="https://mcgraw.princeton.edu/">McGraw Center</a>, and I know that students have in the past had good experiences with the <a href="https://mcgraw.princeton.edu/undergraduates/learning-strategies-consultations-undergraduates/schedule-consultation">learning consultants</a>.</p>
+
+    <h3 id="prereqs">Prerequisites</h3>
+    <p>There are no prerequisites for this course.</p>
+
+    <h3 id="text">Required text</h3>
+    <p>For the first half of the class, we will be reading the book <a href="http://www.amazon.com/Six-Degrees-Science-Connected-Market/dp/0393325423/"><i>Six Degrees: The Science of a Connected Age</i></a>. I will post the chapters for the first three weeks of the class on Canvas in case you are having troubling finding the book.</p>
+
+    <h3 id="access">Open access</h3>
+    <p>I have marked open access materials with a <img src="images/open.png" height="12"> and closed access materials with a <img src="images/closed.png" height="12">.  If you do not have access to a university library, copies of many of the closed access articles can be found through <a href="http://scholar.google.com">Google Scholar</a>.</p>
+
+    <h3 id="precept">Precept philosophy</h3>
+    <p>Precepts were introduced to Princeton University in 1905. The goal of the precepts was to give students "first-hand command of the leading ideas, principles, and processes of the subjects which they are studying." It is in this spirit that we will structure the precepts for this class. In other words, precepts will not be a time to repeat what was already said in lecture. Rather, precepts will be a special opportunity to learn new material in new way.</p>
+
+    <h3 id="precept_conflicts">Precept conflicts</h3>
+    <p>If you have a conflict during your scheduled precept, you can attend another precept. However, before doing so please email your preceptor and the preceptor of the section that you will be attending to let them know.</p>
+
+    <h3 id="ed">Ed</h3>
+    <p>In this course we will be using Ed for online class discussion. You will not be required to post, but the system is designed to get you help quickly and efficiently from classmates, preceptors, and the professor. Rather than emailing questions to the teaching staff, I encourage you to post your questions on <a href="https://edstem.org/us/courses/8439">our class Ed page</a>.</p>
+    <p>Please note that the instructors will not be on Ed between 6pm and 10am.</p>
+
+    <h3 id="certificates">Certificates</h3>
+       <p>This course counts towards the requirements for the <a href="https://citp.princeton.edu/teaching/certificate/">Certificate in Information Technology and Society</a>.</p>
+
+    <h3 id="late">Late assignment and quiz policy</h3>
+       <p>Your assignments and quizzes are due by 11am on Wednesday. Late assignments will be penalized 20 percentage points per day (as calculated by Canvas).</p>
+
+       <p>In exceptional situations, such as a serious medical problem, you may be granted an extension. These requests for extensions must be 1) sent to the professor before the assignment is due; 2) should cc the Dean of your college and your preceptor; and 3) include a new deadline. Only Professor Salganik can grant extensions; preceptors cannot grant extensions.</p>
+
+       <p>Here's an example of an appropriate email, which would be cced to the Dean of your college and your preceptor.</p>
+
+       <p><small>Professor Salganik,</small></p>
+
+       <p><small>Because of my concussion, I am not able to complete assignment 4 by the deadline, which is tomorrow. However, I can submit it by Monday at 10am. Can you approve this request?</p></small>
+
+       <p><small>Thank you, Jane Doe</small></p>
+
+       <p>In extremely exceptional situations, it may not be possible to request an extension before the assignment is due. For example, a student may have emergency surgery, which would make it impossible to request an extension before the due date.  In these extremely exceptional situations, extensions may be granted after the deadline, but again only in writing from Professor Salganik and with the support of the Dean of your college. Further, there is a statue of limitations on these extensions. You cannot request these after-the-fact extensions after a reasonable amount of time has passed.</p>
+
+       <p>I apologize that this policy is so complicated, but it is trying to balance 1) the need to create a wonderful learning environment; 2) the need to be flexible for legitimate emergencies; and 3) the need for fairness to all students. </p>
+
+    <h3 id="regrade">Regrade policy</h3>
+       <p>If you dispute the grade you received for an assignment or exam, you must submit, in writing, a detailed and clearly stated argument for what you believe is incorrect and why. This must be submitted to Professor Salganik no later one week after the assignment was returned. Requests for a re-grade after this time will not be accepted.</p>
+
+       <p>If you request a re-grade within the appropriate timeframe, a written response will be provided within one week of your request. This re-grade and written response is final. Please note that a request for a re-grade of a specific problem may result in a re-grade of the entire assignment. Therefore, a re-grade request may result in an increase or decrease of your overall score for the assignment. This policy is modeled after the policy of <a href="http://www.cs.columbia.edu/~rocco/">Rocco Servidio</a>.</p>
+
+    <h3 id="grading">Grading scale</h3>
+
+    <p>I will convert your numerical grade into a letter grade using the following scale. I will not deflate grades. Further, per university procedures, the grade of A+ will only be given in exceptional circumstances. Princeton's official grading policy is described in the <a href="https://ua.princeton.edu/contents/academic-regulations/grading">undergraduate annoucement</a>.</p>
+
+      <table>
+        <tr>
+          <td>Letter Grade </td> <td>Numeric Grade</td>
+        </tr>
+        <tr>
+          <td>A</td> <td>93 - 100</td>
+        </tr>
+        <tr>
+          <td>A-</td> <td>90 - 92.99</td>
+        </tr>
+        <tr>
+          <td>B+</td> <td>87 - 89.99</td>
+        </tr>
+        <tr>
+          <td>B</td> <td>83 - 86.99</td>
+        </tr>
+        <tr>
+          <td>B-</td> <td>80 - 82.99</td>
+        </tr>
+        <tr>
+          <td>C+</td> <td>77 - 79.99</td>
+        </tr>
+        <tr>
+          <td>C</td> <td>73 - 76.99</td>
+        </tr>
+        <tr>
+          <td>C-</td> <td>70 - 72.99</td>
+        </tr>
+        <tr>
+          <td>D</td> <td>60 - 69.99</td>
+        </tr>
+        <tr>
+          <td>F</td> <td>0 - 59.99</td>
+        </tr>
+      </table>
+
+      <br />
+      <br />
+
+      <h3>Mental health resources</h3>
+
+      <p>These are difficult times for everyone. If you are concerned about your mental health, you are not alone. Please get help. The Office of the Dean of the College provided me with the information below, which I am sharing with you.</p>
+
+      <p>"Undergraduate students may experience a range of emotional and psychological challenges that can interfere with their learning. Strained relationships, increased anxiety, substance or alcohol abuse, depression, difficulty concentrating and/or lack of motivation are frequently responses to significant stress. Mental health concerns caused by stressful circumstances that influence your life out of class might affect the quality your academic work and otherwise impede your happiness on campus. Princeton makes available numerous services to help support you through difficult moments. You can learn more about confidential mental health services available on campus at https://uhs.princeton.edu/counseling-psychological-services. Support is available 24-hours-a-day from Counseling and Psychological Services; if your concern is urgent, this link will take you to appropriate care: https://uhs.princeton.edu/counseling-psychological-services/urgent-mental-health-concerns or you can call the Department of Public Safety at 609-258-3333."</p>
+
+      <h3>Disability services and academic accommodations</h3>
+
+      <p>I want you to be successful in this course, but I cannot grant academic accomidations on my own. Please follow the university rules and procedures as described below, which I have taken from suggested language provided by the Office of the Dean of the College.</p>
+
+      <p>"Students must register with the Office of Disability Services (ods@princeton.edu; 609-258-8840) for disability verification and determination of eligibility for reasonable academic accommodations. Requests for academic accommodations for this course should be made at the beginning of the semester, or as soon as possible for newly-approved students. I encourage students with approved accommodations to contact me at the beginning of the semester, and again before major course assessments. Please note that no accommodations for a disability will be made without authorization from ODS, or without advance notice."</p>
+
+      <h3>Academic integrity</h3>
+
+      <p>Academic integrity is vital to an intellectual community. I expect you to act with high integrety. Each class activity (assignment, midterm, final, quiz) will have a clear collaboration policy. I expect you to follow this policy. If I suspect cheating, I will take action. Cheating hurts you, your classmates, and our entire community. If you have any questions about what is allowed and not, please just ask; we are happy to clarify.</p>
+
+      <p>The Office of the Dean of the College offers <a href="https://odoc.princeton.edu/curriculum/academic-integrity">more information about academic integrity</a>.</p>
+
+      <!--#include file="footer.html"-->
+
+  </div> <!-- /container -->
+
+</html>

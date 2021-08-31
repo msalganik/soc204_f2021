@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--#include file="header.html"-->
+
+<body>
+
+    <!--#include file="navbar.html"-->
+
+    <div class="container">
+
+      <div class="bg-light p-5 rounded-lg m-3">
+        <h1>Sociology 204: Social Networks</h1>
+        <h4>Princeton University, Fall 2021</h4>
+        <h4>Instructor: <a href="http://www.princeton.edu/~mjs3/">Matthew Salganik</a></h4>
+        <h4>Preceptors: Emily Cantrell, Katie Donnelly-Moran, Max Fineman</h4>
+        <h5>Class pages on <a href="https://github.com/msalganik/soc204_f2021">Github</a>, <a href="https://princeton.instructure.com/courses/4801">Canvas</a>, <a href="https://edstem.org/us/courses/8439">Ed</a></h5>
+      </div>
+
+        <h2>Overview</h2>
+        <p>This course provides students an introduction to the study of social networks. In the first half of the course we will learn the core theories that describe the structure of networks and the processes through which things, such as information and disease, spread through networks. Then, in the second half of the course, we will see these theories applied in a variety of areas such as online filter bubbles and social fads.</p>
+
+        <h2>Learning objectives</h2>
+        <ul>
+            <li>Students will be able to <em>describe</em> the major ideas and models used in the study of networks.</li>
+            <li>Students will be able to <em>describe</em> the interconnections between the major ideas and models used in the study of networks.</li>
+            <li>Students will be able to <em>use</em> the major ideas and models used in the study of networks to gain insight into real-world phenomena.</li>
+            <li>Students will be able to <em>evaluate</em> real, modern research that connects the major ideas and models of networks to real-world phenomena.</li>
+        </ul>
+
+        <!--#include file="footer.html"-->
+
+    </div>  <!-- /container -->
+
+</body>
+
+</html>
