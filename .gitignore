@@ -1,4 +1,3 @@
-
 .DS_Store
 *.bash
 slides/figures_book/*
@@ -10,3 +9,4 @@ slides/figures_book/*
 *.toc
 *.snm
 slides/google_circles_deck.pdf
+slides/*.tex
