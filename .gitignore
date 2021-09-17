@@ -10,3 +10,4 @@ slides/figures_book/*
 *.toc
 *.snm
 slides/google_circles_deck.pdf
+*.tex
