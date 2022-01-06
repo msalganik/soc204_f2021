@@ -40,12 +40,12 @@
         <!--#set var="19" value="Social ads in social media (11/15/21)" -->
         <!--#set var="20" value="Fixing social media (11/17/21)" -->
 
-        <!--#set var="21" value="Respondent-driven sampling (11/22/21)" -->
+        <!--#set var="21" value="Facebook files (11/22/21)" -->
 
         <!--#set var="22" value="Network scale-up method to study groups most at-risk for HIV (11/29/21)" -->
         <!--#set var="23" value="Who knows what about who? (12/01/21)" -->
 
-        <!--#set var="24" value="Choose your own adventure (12/06/21)" -->
+        <!--#set var="24" value="Choose your own adventure: Social networks and finding a job (12/06/21)" -->
 
 
         <table class="table">
@@ -399,7 +399,7 @@
 
         <h3 id="12"><!--#echo var="12" --></h3>
         <ul>
-            <li>50 minute midterm exam.</l1>
+            <li>60 minute midterm exam.</l1>
         </ul>
 
         <hr>
@@ -453,13 +453,13 @@
           <li>Kross, E. et al. (2020). <a href="https://doi.org/10.1016/j.tics.2020.10.005">Social media and well-being: Pitfalls, progress, and next steps</a>, <i>Trends in Cognitive Science</i>. <a href="#access" class="oa"></a></li>
           <li>Carey, B. (2019). <a href="https://www.nytimes.com/2019/01/30/health/facebook-psychology-health.html">This is your brain off Facebook</a> <i>New York Times</i>. <a href="#access" class="oa"></a></li>
           <li>Allcott, H. et al. (2020). <a href="http://dx.doi.org/10.1257/aer.20190658">The welfare effects of social media.</a> <i>American Economic Review</i>. <a href="#access" class="oa"></a></li>
-          <li>Baym, N.K. et al. (2020). <a href="">Mindfully scrolling: Rethinking Facebook after time deactived.</a> <i>Social Media + Society</i>. <a href="#access" class="oa"></a></li>
+          <li>Baym, N.K. et al. (2020). <a href="https://doi.org/10.1177/2056305120919105">Mindfully scrolling: Rethinking Facebook after time deactived.</a> <i>Social Media + Society</i>. <a href="#access" class="oa"></a></li>
         </ul>
 
         <h3 id="18"><!--#echo var="18" --></h3>
         <ul>
           <li>Crokett, M.J. (2017). <a href="https://doi.org/10.1038/s41562-017-0213-3">Moral outrage in the digital age.</a> <i>Nature Human Behavior</i>. <a href="#access" class="ca"></a></li>
-          <li>Brady, W.J. et al. (2021). <a href="https://psyarxiv.com/gf7t5">How social learning amplifies moral outrage expression in online social networks.</a> <i>Working paper</i>. <a href="#access" class="oa"></a></li>
+          <li>Brady, W.J. et al. (2021). <a href="https://doi.org/10.1126/sciadv.abe5641">How social learning amplifies moral outrage expression in online social networks.</a> <i>Science Advances</i>. <a href="#access" class="oa"></a></li>
           <li>Aral, S. (2018). <a href="https://www.nytimes.com/2018/03/08/opinion/sunday/truth-lies-spread-online.html">How lies spread online.</a> <i>New York Times</i>. <a href="#access" class="oa"></a></li>
           <li>Vosoughi, S. et al. (2018). <a href="http://dx.doi.org/10.1126/science.aap9559">The spread of true and false news online.</a> <i>Science</i>. <a href="#access" class="ca"></a></li>
           <li>Lazer, D. (2015). <a href="https://dx.doi.org/10.1126/science.aab1422">The rise of the social algorithm.</a> <i>Science</i>. <a href="#access" class="ca"></a></li>
@@ -488,27 +488,43 @@
 
         <h3 id="21"><!--#echo var="21" --></h3>
         <ul>
-            <li>TBA</li>
+            <li>The Journal podcast (2021). <a href="https://www.wsj.com/podcasts/the-journal/the-facebook-files-part-1-the-whitelist/72a1e8f5-a187-4a91-bedb-b0b0d39f5cce">The Facebook Files, Part 1: The whitelist.</a> (listen to just the first 4 minutes) <a href="#access" class="oa"></a></li>
+            <li>The Journal podcast (2021). <a href="https://www.wsj.com/podcasts/the-journal/the-facebook-files-part-2-we-make-body-image-issues-worse/c2c4d7ba-f261-4343-8d18-d4de177cf973">The Facebook Files, Part 2: We make body image issues worse.</a> <a href="#access" class="oa"></a></li>
+            <li>Wells, G. et al. (2021). <a href="https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739">Facebook Knows Instagram Is Toxic for Teen Girls, Company Documents Show.</a> <i>Wall Street Journal</i>. <a href="#access" class="oa"></a></li>
+            <li>Author(s) unknown (2019). <a href="https://s.wsj.net/public/resources/documents/teen-mental-health-deep-dive.pdf">Teen mental health deep dive</a> <i>Leaked slide deck</i>. <a href="#access" class="oa"></a></li>
+            <li>Raychoudhury, P. (2021). <a href="https://about.fb.com/news/2021/09/research-teen-well-being-and-instagram/">What Our Research Really Says About Teen Well-Being and Instagram.</a> <i>Facebook blog post</i> <a href="#access" class="oa"></a></li>
+            <li>Author(s) unknown (2019). <a href="https://about.fb.com/wp-content/uploads/2021/09/Instagram-Teen-Annotated-Research-Deck-2.pdf">Teen mental health deep dive</a> <i>Leaked slide deck with Facebook annotations</i>. <a href="#access" class="oa"></a></li>
+            <li>Steinberg, L. (2021). <a href="https://www.nytimes.com/2021/10/10/opinion/instagram-facebook-mental-health-study.html">Does Instagram Harm Girls? No One Actually Knows.</a> <i>New York Times</i>. <a href="#access" class="oa"></a></li>
+            <li>The Journal podcast (2021). <a href="https://www.wsj.com/podcasts/the-journal/the-facebook-files-part-4-the-outrage-algorithm/e619fbb7-43b0-485b-877f-18a98ffa773f">The Facebook Files, Part 4: The outrage algorithm.</a> <a href="#access" class="oa"></a></li>
+            <li>Hagey, K. and Horwitz, J. (2021). <a href="https://www.wsj.com/articles/facebook-algorithm-change-zuckerberg-11631654215">Facebook Tried to Make Its Platform a Healthier Place. It Got Angrier Instead.</a> <i>Wall Street Journal</i>. <a href="#access" class="oa"></a></li>
+            <li>Mac, R. (2021). <a href="https://www.nytimes.com/2021/10/10/opinion/instagram-facebook-mental-health-study.html">Engagement ranking boost, M.S.I., and more.</a> <i>New York Times</i>. <a href="#access" class="oa"></a></li>
+            <li><a href="https://www.youtube.com/watch?v=GOnpVQnv5Cw">Frances Haugen testimony</a> before U.S. Senate Commerce Subcommittee on Consumer Protection. October 5, 2021. <a href="#access" class="oa"></a></li>
+            <li>Mac, R. (2021). <a href="https://www.nytimes.com/2021/10/05/technology/what-happened-at-facebook-whistleblower-hearing.html">Key takeaways from Facebook’s whistle-blower hearing.</a> <i>New York Times</i>. <a href="#access" class="oa"></a></li>
         </ul>
 
         <hr>
 
         <h3 id="22"><!--#echo var="22" --></h3>
         <ul>
-            <li>Feehan, D.M. and Salganik, M.J. (2016). <a href="https://doi.org/10.1177/0081175016665425">Generalizing the Network Scale-up Method: A New Estimator for the Size of Hidden Populations</a>. <i>Sociological Methodology</i> <a href="#access" class="ca"></a></li>
+            <li>Feehan, D.M. and Salganik, M.J. (2016). <a href="https://doi.org/10.1177/0081175016665425">Generalizing the Network Scale-up Method: A New Estimator for the Size of Hidden Populations.</a> <i>Sociological Methodology</i> <a href="#access" class="ca"></a></li>
             <li>Feehan, D.M. et al. (2016). <a href="https://doi.org/10.1093/aje/kwv287">Quality vs. Quantity: A survey experiment to improve the network scale-up method.</a>  <i>American Journal of Epidemiology</i> 183(8): 747-757. <a href="#access" class="oa"></a></li>
         </ul>
 
         <h3 id="23"><!--#echo var="23" --></h3>
         <ul>
           <li>Salganik, M.J. et al. (2011). <a href="https://doi.org/10.1016/j.socnet.2010.10.006">The game of contacts: Estimating the social visibility of groups.</a> <i>Social Networks</i> <a href="#access" class="ca"></a></li>
-          <li>Cowan, S. (2014). <a href="http://www.sociologicalscience.com/download/volume%201/november/SocSci_v1_466to492.pdf">Secrets and Misperceptions: The Creation of Self-Fulfilling Illusions</a> <i>Sociological Science</i>. <a href="#access" class="oa"></a></li>
+          <li>Cowan, S. (2014). <a href="http://www.sociologicalscience.com/download/volume%201/november/SocSci_v1_466to492.pdf">Secrets and Misperceptions: The Creation of Self-Fulfilling Illusions.</a> <i>Sociological Science</i>. <a href="#access" class="oa"></a></li>
         </ul>
 
         <hr>
 
         <h3 id="24"><!--#echo var="24" --></h3>
-        <p>The topic for the final class will be selected by students.</p>
+        <p>The topic for the final class was selected by students.</p>
+        <ul>
+          <li>Burke, M. et al. (2016). <a href="https://research.facebook.com/blog/2016/03/how-strong-and-weak-ties-help-you-find-a-job/">How strong and weak ties help you find a job.</a> <i>Facebook Research Blog</i> <a href="#access" class="oa"></a></li>
+          <li>Gee, L.K. et al. (2017). <a href="https://doi.org/10.1086/686225">Social Networks and Labor Markets How Strong Ties Relate to Job Finding on Facebook's Social Network.</a> <i>Journal of Labor Economics</i> 35(2): 485-518. <a href="#access" class="ca"></a></li>
+          <li>Greenberg, J. and Fernandez, R.M. (2016). <a href="https://doi.org/10.15195/v3.a14">The Strength of Weak Ties in MBA Job Search: A Within-Person Test.</a> <i>Sociological Science</i>. <a href="#access" class="oa"></a></li>
+        </ul>
 
         <!--#include file="footer.html"-->
 
